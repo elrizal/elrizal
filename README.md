@@ -1,4 +1,3 @@
-## Nice to meet you!
 I am a developer that uses UX design practice and research to create impactful experiences.
 Currently, I'm working as a full-time Conversion Rate Optimization Engineer at a tech company in Austin, TX. 
 ### Skilled in...
