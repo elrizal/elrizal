@@ -2,7 +2,7 @@
 I am a front-end developer that uses UX design practice and research to create impactful experiences.
 Currently, I'm working as a full-time Conversion Rate Optimization Engineer at a tech company in Austin, TX. 
 ### Skilled in...
-![alt text](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)![alt text](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)![alt text](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css)![alt text](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)![alt text](https://img.shields.io/badge/node-black?style=for-the-badge&logo=node)![alt text](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)![alt text](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)
+![alt text](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript)![alt text](https://img.shields.io/badge/sass-white?style=for-the-badge&logo=sass)![alt text](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css)![alt text](https://img.shields.io/badge/react-white?style=for-the-badge&logo=react)![alt text](https://img.shields.io/badge/node-white?style=for-the-badge&logo=node)![alt text](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql)![alt text](https://img.shields.io/badge/java-white?style=for-the-badge&logo=java)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=elrizal&theme=tokyonight&show_icons=true)
 
