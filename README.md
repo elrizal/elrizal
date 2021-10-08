@@ -1,5 +1,4 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elrizal)](https://github.com/anuraghazra/github-readme-stats)
+![stats](https://github-readme-stats.vercel.app/api?username=elrizal&theme=tokyonight&show_icons=true)
 
 <!--
 **elrizal/elrizal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
