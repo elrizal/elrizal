@@ -1,4 +1,11 @@
+## Nice to meet you!
+I am a front-end developer that uses UX design practice and research to create impactful experiences.
+Currently, I'm working as a full-time Conversion Rate Optimization Engineer at a tech company in Austin, TX. 
+### Skilled in...
+![alt text](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)![alt text](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)![alt text](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css)![alt text](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)![alt text](https://img.shields.io/badge/node-black?style=for-the-badge&logo=node)![alt text](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)![alt text](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)
+
 ![stats](https://github-readme-stats.vercel.app/api?username=elrizal&theme=tokyonight&show_icons=true)
+
 
 <!--
 **elrizal/elrizal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
