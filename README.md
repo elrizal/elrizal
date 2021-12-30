@@ -1,5 +1,4 @@
-I am a developer that uses UX design practice and research to create impactful experiences.
-Currently, I'm working as a full-time Conversion Rate Optimization Engineer at a tech company in Austin, TX while pursuing a certificate in software engineering at Linfield University. 
+I am a UX developer that was a graphic designer in a past life. Currently, I'm working as a junior Software Engineer at a tech company in Austin, TX while pursuing a certificate in software engineering at Linfield University. 
 [Design & Development Case Studies](https://lrizal.com)
 
 ### Tools I use 
