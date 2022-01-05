@@ -1,3 +1,4 @@
+## Hello!
 I am a UX developer that was a graphic designer in a past life. Currently, I'm working as a junior Software Engineer at a tech company in Austin, TX while pursuing a certificate in software engineering at Linfield University. 
 [View my Case Studies](https://lrizal.com)
 
