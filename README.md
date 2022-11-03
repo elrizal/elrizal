@@ -11,3 +11,4 @@ Adobe Photoshop, Illustrator, InVision, Miro and Sketch
 <!-- ![stats](https://github-readme-stats.vercel.app/api?username=elrizal&theme=buefy&show_icons=true)
  -->
 
+PS Since August 2022, I've been working on a repo with another accoount in Bitbucket for as project- hence the blank contributiions!
