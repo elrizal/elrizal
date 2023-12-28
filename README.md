@@ -5,3 +5,4 @@
 
 Currently, I specialize in strategizing and building AB tests to improve conversion rate optimization at a SaaS company. 
 https://lrizal.com
+https://linktr.ee/Elrizz
