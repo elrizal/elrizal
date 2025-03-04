@@ -1,5 +1,5 @@
 
-<img align="left" src="https://res.cloudinary.com/diuubtvqd/image/upload/v1741128820/Untitled_Artwork_3_y57hr2.gif">
+<img margin="10px" align="left" src="https://res.cloudinary.com/diuubtvqd/image/upload/v1741128820/Untitled_Artwork_3_y57hr2.gif">
 
 
 ### Hello! I am a UX-UI Engineer with industry-experience in:
@@ -10,13 +10,6 @@
 * [Conversion Rate Optimization (CRO) Projects](https://www.beautiful.ai/player/-NfgrZuMA1yJ0Fusx0SZ/ELR)
 
 :briefcase: Previous works from:
-* Sirius XM
-* Vail Resorts
-* Gartner / Software Adivce
-* Admas Direct & Media
-* MetLife
-* Equipment Zone
-* Aerosoles
-* FH Group
+* Sirius XM , Vail Resorts, Gartner / Software Adivce, MetLife, Equipment Zone, Aerosoles, FH Group
 
 :art: Also an [illustrator](https://cara.app/harimau) hobbyist 
